@@ -1,7 +1,7 @@
 # Amit's Portfolio Website
 
 Welcome to my personal portfolio website! This is a showcase of my skills, and projects in the field of Software Development. <br/>
-Link- https://amit-start.vercel.app
+Link- https://amit-star.vercel.app
 <br/> <br/>
 ## Website Preview
 ![image](https://github.com/Amitkumar9027/Personal-Portfolio/blob/main/src/images/MainReadme.png)
