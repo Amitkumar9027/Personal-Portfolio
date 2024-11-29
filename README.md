@@ -1,10 +1,10 @@
-# Deepa's Portfolio Website
+# Amit's Portfolio Website
 
 Welcome to my personal portfolio website! This is a showcase of my skills, and projects in the field of Software Development. <br/>
-Link- https://deepajha.netlify.app
+Link- https://amit-start.vercel.app
 <br/> <br/>
 ## Website Preview
-![image](https://github.com/Deepajha14/Deepa-Jha/assets/103725672/94807ec4-517c-4954-a8d4-dd072c35bbdc)
+![image](https://github.com/Amitkumar9027/Personal-Portfolio/blob/main/src/images/MainReadme.png)
 
 
 ## Table of Contents
@@ -17,7 +17,7 @@ Link- https://deepajha.netlify.app
 
 ## Features
 
-- **Hosting on Netlify:** The website is hosted on [`Netlify`](https://www.netlify.com) platform, ensuring a reliable and efficient hosting solution.
+- **Hosting on vercel:** The website is hosted on [`Vercel`](https://www.vercel.com) platform, ensuring a reliable and efficient hosting solution.
 
 - **Single Page Portfolio:** The portfolio is designed as a single page, offering convenient navigation to various sections, including:
     - **Projects:** A comprehensive display of my key projects, demonstrating my technical skills and creativity.
